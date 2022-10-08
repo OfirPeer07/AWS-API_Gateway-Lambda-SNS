@@ -30,4 +30,7 @@ Then select your "Topic ARN".
 In "Protocol" select the "Email" option and in "Endpoint" fill your email.  
 You can leave all the other options at default and click on "Create subscription".
 
-![This is image]()
+![This is image](https://i.postimg.cc/s3w0f2x7/ARNtopic.jpg)
+
+We will return to "Subscribers", where you can see in the "Status" tab that our email is awaiting confirmation.
+In order to confirm the e-mail, we will enter the e-mail, where we will find an e-mail with a link to confirm and verify the selected e-mail.

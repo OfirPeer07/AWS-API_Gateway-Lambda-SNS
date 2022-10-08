@@ -18,4 +18,9 @@ You can leave all the other options at default and click on "Create function".
 
 ![This is image](https://serving.photos.photobox.com/05385919cf27e171943e54baac41e3a00aec6887eb8833f1e5ae6755eed7f781c9269e9b.jpg)
 
+- Go to SNS ==> Topics ==> Click on "Create topic".
 
+On this page we will create a "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic called "Calc2Parameters").  
+It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Cearte topic".  
+
+![This is image](https://i.ibb.co/4PdY8GT/Create-Topic-SNS.jpg)

@@ -72,7 +72,7 @@ Next step is to create Method (POST) - Click on "Actions" to "Create Method", Se
 
 Click "OK" to give API Gateway permission to invoke your Lambda function.
 
-![This is image](https://i.postimg.cc/dt2xFfj4/API5.jpg)
+![This is image](https://i.postimg.cc/RVJvTv9q/API5.jpg)
 
 Click on "Actions" then "Deploy API".  
 In "Deployment stage" select "New Stage", choose a "Stage name" (my stage called "Clac2Parameters_Test"),  

@@ -39,6 +39,6 @@ In order to confirm the email, we will enter the email, where we will find an e-
 
 - Go to IAM ==> Roles ==> Click on "Create role".
 
-![This is image](https://postimg.cc/7CTfkqy1)
+![This is image](https://i.postimg.cc/JhpJjh6F/IAMRole1.jpg)
 
 

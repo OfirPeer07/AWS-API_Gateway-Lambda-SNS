@@ -51,4 +51,8 @@ In "Role name" select a name (my role called "Calc2Parameters"), then click on "
 
 ![This is image](https://i.postimg.cc/T2Qt9r1k/IAMRole3.jpg)
 
-
+- Go to API Gateway ==> APIs ==> Click on "Create API".  
+In "API type" select REST API (no Private) and click on "Build".  
+Select "REST" for choose the protocol, and "New API" to create new API, then give a name to your API.  
+It is not mandatory to fill in a "Description".  
+"Endpoint Type" select "Regional", When done, click on "Create API".

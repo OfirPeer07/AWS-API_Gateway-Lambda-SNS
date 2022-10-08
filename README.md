@@ -13,7 +13,7 @@ Lambda functions allows us to using the Lambda API, or Lambda can run your funct
 
 - Go to Lambda ==> Functions ==> Click on "Create function".  
 
-On this page we will create a "Lambda function", first you have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I chose Python 3.8).  
+On this page we will create a "Lambda function", first you have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I am using Python 3.8).  
 You can leave all the other options at default and click on "Create function".
 
 ![This is image](https://serving.photos.photobox.com/05385919cf27e171943e54baac41e3a00aec6887eb8833f1e5ae6755eed7f781c9269e9b.jpg)

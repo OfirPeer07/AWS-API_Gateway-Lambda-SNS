@@ -10,3 +10,5 @@ Lambda runs your function only when needed and scales automatically, from a few 
 Lambda functions allows us to using the Lambda API, or Lambda can run your functions in response to events from other AWS services.
 
 ![This is image](https://serving.photos.photobox.com/05385919cf27e171943e54baac41e3a00aec6887eb8833f1e5ae6755eed7f781c9269e9b.jpg)
+
+On this page we will create a "Lambda function", first you have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I chose Python 3.8).

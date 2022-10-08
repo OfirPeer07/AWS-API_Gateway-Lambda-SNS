@@ -80,3 +80,4 @@ It is not mandatory to fill in a "Stage/Deployment description", click on "Deplo
 
 ![This is image](https://i.postimg.cc/RhVN0ynK/API6.jpg)
 
+![This is image](https://images.squarespace-cdn.com/content/v1/61f2d23be98e94537d76e95d/9aa6bb3c-66b5-48ae-af4c-72147f86ea36/sofarsogood_website_Logo_white1.png)

@@ -26,7 +26,8 @@ It is not mandatory to fill in "Display name" and all options can be left on def
 ![This is image](https://i.postimg.cc/s25KJTJQ/Create-Topic-SNS.jpg)
 
 After we created a topic, we have to go to "Subscriptions" and click on "Create subscription".  
-Then we have to choose a name to "Topic ARN" (my topic arn called "Calc2Parameters").  
-In "Protocol" select the "Email" option and in "Endpoint" fill your email.
+Then select your "Topic ARN".  
+In "Protocol" select the "Email" option and in "Endpoint" fill your email.  
+You can leave all the other options at default and click on "Create subscription".
 
 ![This is image]()

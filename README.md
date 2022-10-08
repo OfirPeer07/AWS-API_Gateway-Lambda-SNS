@@ -54,30 +54,29 @@ In "Role name" select a name (my role called "Calc2Parameters"), then click on "
 - Go to API Gateway ==> APIs ==> Click on "Create API".  
 In "API type" select "REST API" (no Private) and click on "Build".  
 
-![This is image](API-1)
+![This is image](https://i.postimg.cc/DzjNDbPh/API1.jpg)
 
 Select "REST" for choose the protocol, and "New API" to create new API, then give a name to your API.  
 It is not mandatory to fill in a "Description".  
-"Endpoint Type" select "Regional", When done, click on "Create API".
+In "Endpoint Type" select "Regional", When done, click on "Create API".
 
-![This is image](API-2)
+![This is image](https://i.postimg.cc/HxrNCs6y/API2.jpg)
 
 After we created a API, We click on "Actions" to "Create Resource", then we choose a name (my resource called "calc2parameters") and click on "Create Resource".
 
-![This is image](API-3)
+![This is image](https://i.postimg.cc/85x0kQYn/API3.jpg)
 
-Next step is to create Method (POST) - Click on "Actions" to "Create Method", Select "Lambda Function" in "Integration type", mark the "Proxy integration",  
-choose your "Lambda Function", When done, click on "Save".
+Next step is to create Method (POST) - Click on "Actions" to "Create Method", Select "Lambda Function" in "Integration type", mark the "Proxy integration", choose your "Lambda Function", When done, click on "Save".
 
-![This is image](API-4)
+![This is image](https://i.postimg.cc/mkM6tpfZ/API4.jpg)
 
 Click "OK" to give API Gateway permission to invoke your Lambda function.
 
-![This is image](API-5)
+![This is image](https://i.postimg.cc/dt2xFfj4/API5.jpg)
 
 Click on "Actions" then "Deploy API".  
 In "Deployment stage" select "New Stage", choose a "Stage name" (my stage called "Clac2Parameters_Test"),  
-It is not mandatory to fill in a "Stage/Deployment description", click on "Deploy" to complete.
+It is not mandatory to fill in a "Stage/Deployment description", click on "Deploy" to create a stage.
 
-![This is image](API-6)
+![This is image](https://i.postimg.cc/RhVN0ynK/API6.jpg)
 

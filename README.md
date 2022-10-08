@@ -52,7 +52,27 @@ In "Role name" select a name (my role called "Calc2Parameters"), then click on "
 ![This is image](https://i.postimg.cc/T2Qt9r1k/IAMRole3.jpg)
 
 - Go to API Gateway ==> APIs ==> Click on "Create API".  
-In "API type" select REST API (no Private) and click on "Build".  
+In "API type" select "REST API" (no Private) and click on "Build".  
+
+![This is image](API-1)
+
 Select "REST" for choose the protocol, and "New API" to create new API, then give a name to your API.  
 It is not mandatory to fill in a "Description".  
 "Endpoint Type" select "Regional", When done, click on "Create API".
+
+![This is image](API-2)
+
+After we created a API, We click on "Actions" to "Create Resource", then we choose a name (my resource called "calc2parameters") and click on "Create Resource".
+
+![This is image](API-3)
+
+Next step is to create Method (POST) - Click on "Actions" to "Create Method", Select "Lambda Function" in "Integration type", mark the "Proxy integration",  
+choose your "Lambda Function", When done, click on "Save".
+
+![This is image](API-4)
+
+Click "OK" to give API Gateway permission to invoke your Lambda function.
+
+![This is image](API-5)
+
+Click on "Actions" to create "New Deploy"

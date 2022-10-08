@@ -25,3 +25,9 @@ On this page we will create a "SNS topic", first you have to choose "Standard" i
 It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Cearte topic".  
 
 ![This is image](https://i.postimg.cc/s25KJTJQ/Create-Topic-SNS.jpg)
+
+After we created a topic, we have to go to "Subscriptions" and click on "Create subscription".  
+Then we have to choose a name to "Topic ARN" (my topic arn called "Calc2Parameters").  
+In "Protocol" select the "Email" option and in "Endpoint" fill your email.
+
+![This is image]()

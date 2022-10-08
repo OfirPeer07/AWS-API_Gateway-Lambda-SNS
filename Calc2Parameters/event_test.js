@@ -6,7 +6,7 @@
 # 4. In "Event JSON" replace the code with the code down below
 # 5. Press "Save".
 */
-s
+
 {
   "num1": 10,
   "num2": 11,

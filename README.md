@@ -75,4 +75,9 @@ Click "OK" to give API Gateway permission to invoke your Lambda function.
 
 ![This is image](API-5)
 
-Click on "Actions" to create "New Deploy"
+Click on "Actions" then "Deploy API".  
+In "Deployment stage" select "New Stage", choose a "Stage name" (my stage called "Clac2Parameters_Test"),  
+It is not mandatory to fill in a "Stage/Deployment description", click on "Deploy" to complete.
+
+![This is image](API-6)
+

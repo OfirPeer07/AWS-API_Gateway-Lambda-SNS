@@ -37,7 +37,9 @@ In order to confirm the email, we will enter the email, where we will find an e-
 
 ![This is image](https://i.postimg.cc/g2xYSTr0/Subscription.jpg)
 
-- Go to IAM ==> Roles ==> Click on "Create role".
+- Go to IAM ==> Roles ==> Click on "Create role".    
+In "Trusted entity type" select "AWS Service".   
+In "Use case" select "Lambda" and click "Next".
 
 ![This is image](https://i.postimg.cc/JhpJjh6F/IAMRole1.jpg)
 

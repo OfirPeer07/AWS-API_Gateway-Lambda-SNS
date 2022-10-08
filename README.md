@@ -47,4 +47,8 @@ In "Permissions policies" we will search "AmazonSNSFullAccess", we will mark it 
 
 ![This is image](https://i.postimg.cc/s2VztYPM/IAMRole2.jpg)
 
+In "Role name" select a name (my role called "Calc2Parameters"), then click on "Create role".
+
+![This is image](https://i.postimg.cc/T2Qt9r1k/IAMRole3.jpg)
+
 

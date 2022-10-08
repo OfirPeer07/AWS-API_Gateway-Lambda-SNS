@@ -36,3 +36,9 @@ We will return to "Subscriptions", where you can see in the "Status" tab that ou
 In order to confirm the email, we will enter the email, where we will find an e-mail with a link to confirm and verify the selected email.
 
 ![This is image](https://i.postimg.cc/g2xYSTr0/Subscription.jpg)
+
+- Go to IAM ==> Roles ==> Click on "Create role".
+
+![This is image](https://postimg.cc/7CTfkqy1)
+
+

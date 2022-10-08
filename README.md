@@ -32,5 +32,5 @@ You can leave all the other options at default and click on "Create subscription
 
 ![This is image](https://i.postimg.cc/s3w0f2x7/ARNtopic.jpg)
 
-We will return to "Subscribers", where you can see in the "Status" tab that our email is awaiting confirmation.
-In order to confirm the e-mail, we will enter the e-mail, where we will find an e-mail with a link to confirm and verify the selected e-mail.
+We will return to "Subscribers", where you can see in the "Status" tab that our email is awaiting confirmation.  
+In order to confirm the email, we will enter the e-mail, where we will find an e-mail with a link to confirm and verify the selected email.

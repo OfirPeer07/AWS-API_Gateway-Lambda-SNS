@@ -1,5 +1,6 @@
 # AWS-API_Gateway-Lambda-SNS
-
+[
+https://i.ibb.co/4PdY8GT/Create-Topic-SNS.jpg](https://ibb.co/xJHf10j)
 Here you can find examples of Lambda function usage and a full tutorial explaining how to use AWS API Gateway and SNS (Simple Notification Service) to send an email with the response from the Lambda source code.
 
 ![This is image](https://user-images.githubusercontent.com/6509926/52906603-cbb6cb80-3214-11e9-8a97-a5ea2d4036d3.png)
@@ -23,4 +24,4 @@ You can leave all the other options at default and click on "Create function".
 On this page we will create a "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic called "Calc2Parameters").  
 It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Cearte topic".  
 
-![This is image](https://i.ibb.co/4PdY8GT/Create-Topic-SNS.jpg)
+![This is image](https://i.ibb.co/4PdY8GT/Create-Topic-SNS.jpg](https://ibb.co/xJHf10j)

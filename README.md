@@ -6,7 +6,7 @@ Here you can find examples of Lambda function usage and a full tutorial explaini
 
 ### **A little about "Lambda"**
 Lambda is a compute service that lets you run code without provisioning or managing servers, with Lambda, you can run code for virtually any type of application or backend service.
-[^note]:
+[^1]:
 Lambda runs your function only when needed and scales automatically, from a few requests per day to thousands per second.
-[^note]:
+[^2]:
 Lambda functions allows us to using the Lambda API, or Lambda can run your functions in response to events from other AWS services.

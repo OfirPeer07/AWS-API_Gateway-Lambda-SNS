@@ -1,4 +1,4 @@
-# AWS-API_Gateway-Lambda-SNS
+# AWS Services: API Gateway ==> Lambda ==> SNS
 
 Here you can find examples of Lambda function usage and a full tutorial explaining how to use AWS API Gateway and SNS (Simple Notification Service) to send an email with the response from the Lambda source code.
 
@@ -33,7 +33,7 @@ You can leave all the other options at default and click on "Create subscription
 ![This is image](https://i.postimg.cc/s3w0f2x7/ARNtopic.jpg)
 
 We will return to "Subscriptions", where you can see in the "Status" tab that our email is awaiting confirmation.  
-In order to confirm the email, we will enter the email, where we will find an e-mail with a link to confirm and verify the selected email.
+In order to confirm the email, we will enter the email, where we will find an email with a link to confirm and verify the selected email.
 
 ![This is image](https://i.postimg.cc/g2xYSTr0/Subscription.jpg)
 

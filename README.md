@@ -93,3 +93,7 @@ In "Destination type" select "SNS topic".
 In "Destination" select the name of the topic we created.
 
 ![This is iamge](https://i.ibb.co/KjjF5MK/SNSdestination.jpg)
+
+For the final step, we have to make sure all the steps were successful and then we should get a confirmation email from "AWS Notifications" with a result of the "Lambda function".
+
+![This is image](https://i.ibb.co/Wk0YGDr/21.jpg)

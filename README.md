@@ -7,7 +7,7 @@ Here you can find examples of Lambda function usage and a full tutorial explaini
 ### **A little about "Lambda"**
 Lambda is a compute service that lets you run code without provisioning or managing servers, with Lambda, you can run code for virtually any type of application or backend service.  
 Lambda runs your function only when needed and scales automatically, from a few requests per day to thousands per second.  
-Lambda functions allows us to using the Lambda API, or Lambda can run your functions in response to events from other AWS services.
+Lambda functions allows us to use the Lambda API, or Lambda can run your functions in response to events from other AWS services.
 
 ![This is image](https://i.ibb.co/dGwtcFZ/tumblr-p3ixzlxw-W81s74q07o1-1280.jpg)
 
@@ -58,7 +58,7 @@ In "API type" select "REST API" (no Private) and click on "Build".
 
 Select "REST" to choose the protocol, and "New API" to create a new API, then give a name to your API.  
 It is not mandatory to fill in a "Description".  
-In "Endpoint Type" select "Regional", When done, click on "Create API".
+In "Endpoint Type" select "Regional", when done, click on "Create API".
 
 ![This is image](https://i.postimg.cc/HxrNCs6y/API2.jpg)
 
@@ -66,7 +66,7 @@ After we created a API, We click on "Actions" to "Create Resource", then we choo
 
 ![This is image](https://i.postimg.cc/85x0kQYn/API3.jpg)
 
-Next step is to create Method (POST) - Click on "Actions" to "Create Method", Select "Lambda Function" in "Integration type", mark the "Proxy integration", choose your "Lambda Function", When done, click on "Save".
+Next step is to create Method (POST) - Click on "Actions" to "Create Method", select "Lambda Function" in "Integration type", mark the "Proxy integration", choose your "Lambda Function", when done, click on "Save".
 
 ![This is image](https://i.postimg.cc/mkM6tpfZ/API4.jpg)
 
@@ -75,7 +75,7 @@ Click "OK" to give API Gateway permission to invoke your Lambda function.
 ![This is image](https://i.postimg.cc/RVJvTv9q/API5.jpg)
 
 Click on "Actions" then "Deploy API".  
-In "Deployment stage" select "New Stage", choose a "Stage name" (my stage called "Clac2Parameters_Test").  
+In "Deployment stage" select "New Stage", choose a "Stage name" (my stage is called "Clac2Parameters_Test").  
 It is not mandatory to fill in a "Stage/Deployment description", click on "Deploy" to create a stage.
 
 ![This is image](https://i.postimg.cc/RhVN0ynK/API6.jpg)
@@ -93,3 +93,5 @@ In "Destination type" select "SNS topic".
 In "Destination" select the name of the topic we created.
 
 ![This is iamge](https://i.ibb.co/KjjF5MK/SNSdestination.jpg)
+
+![This is image](https://i.ibb.co/PrbPPXn/AAAABXLO1-EMk-Jf-FOBQTtx-Xo-Q1-T-JX-6-ZSdu-YV1kxgv-EMh8frq-SM7t7-TGTYXLug71-Tp-YOo-IHUxs69u06u-Iw-A0.png)

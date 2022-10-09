@@ -86,7 +86,7 @@ After completing all the steps so far, we will check that the "API Gateway" and 
 
 ![This is image](https://i.postimg.cc/nhRsXQjs/Calc2-Parameters.jpg)
 
-In order to connect the SNS to the Lambda function, we must click on "Add destination".  
+To connect the SNS to the Lambda function, we must click on "Add destination".  
 In "Source" select "Asynchronous invocation".  
 In "Condition" select "On failure".  
 In "Destination type" select "SNS topic".  

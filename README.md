@@ -62,7 +62,7 @@ In "Endpoint Type" select "Regional", When done, click on "Create API".
 
 ![This is image](https://i.postimg.cc/HxrNCs6y/API2.jpg)
 
-After we created an API, We click on "Actions" to "Create Resource", then we choose a name (my resource is called "calc2parameters") and click on "Create Resource".
+After we created an API, we click on "Actions" to "Create Resource", then we choose a name (my resource is called "calc2parameters") and click on "Create Resource".
 
 ![This is image](https://i.postimg.cc/85x0kQYn/API3.jpg)
 

@@ -33,7 +33,7 @@ You can leave all the other options at default and click on "Create subscription
 ![This is image](https://i.postimg.cc/s3w0f2x7/ARNtopic.jpg)
 
 We will return to "Subscriptions", where you can see in the "Status" tab that our email is awaiting confirmation.  
-In order to confirm the email, we will enter the email, where we will find an e-mail with a link to confirm and verify the selected email.
+In order to confirm the email, we will enter the email, where we will find an email with a link to confirm and verify the selected email.
 
 ![This is image](https://i.postimg.cc/g2xYSTr0/Subscription.jpg)
 
@@ -58,7 +58,7 @@ In "API type" select "REST API" (no Private) and click on "Build".
 
 Select "REST" for choose the protocol, and "New API" to create new API, then give a name to your API.  
 It is not mandatory to fill in a "Description".  
-In "Endpoint Type" select "Regional", When done, click on "Create API".
+In "Endpoint Type" select "Regional", when done, click on "Create API".
 
 ![This is image](https://i.postimg.cc/HxrNCs6y/API2.jpg)
 
@@ -66,7 +66,7 @@ After we created an API, we click on "Actions" to "Create Resource", then we cho
 
 ![This is image](https://i.postimg.cc/85x0kQYn/API3.jpg)
 
-Next step is to create Method (POST) - Click on "Actions" to "Create Method", Select "Lambda Function" in "Integration type", mark the "Proxy integration", choose your "Lambda Function", When done, click on "Save".
+Next step is to create Method (POST) - Click on "Actions" to "Create Method", select "Lambda Function" in "Integration type", mark the "Proxy integration", choose your "Lambda Function", when done, click on "Save".
 
 ![This is image](https://i.postimg.cc/mkM6tpfZ/API4.jpg)
 

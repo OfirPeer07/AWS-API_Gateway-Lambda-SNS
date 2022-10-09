@@ -20,8 +20,8 @@ You can leave all the other options at default and click on "Create function".
 
 - Go to SNS ==> Topics ==> Click on "Create topic".
 
-On this page we will create a "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic called "Calc2Parameters").  
-It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Cearte topic".  
+On this page we will create a "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic is called "Calc2Parameters").  
+It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Create topic".  
 
 ![This is image](https://i.postimg.cc/s25KJTJQ/Create-Topic-SNS.jpg)
 
@@ -47,7 +47,7 @@ In "Permissions policies" we will search "AmazonSNSFullAccess", we will mark it 
 
 ![This is image](https://i.postimg.cc/s2VztYPM/IAMRole2.jpg)
 
-In "Role name" select a name (my role called "Calc2Parameters"), then click on "Create role".
+In "Role name" select a name (my role is called "Calc2Parameters"), then click on "Create role".
 
 ![This is image](https://i.postimg.cc/T2Qt9r1k/IAMRole3.jpg)
 
@@ -62,7 +62,7 @@ In "Endpoint Type" select "Regional", When done, click on "Create API".
 
 ![This is image](https://i.postimg.cc/HxrNCs6y/API2.jpg)
 
-After we created a API, We click on "Actions" to "Create Resource", then we choose a name (my resource called "calc2parameters") and click on "Create Resource".
+After we created a API, We click on "Actions" to "Create Resource", then we choose a name (my resource is called "calc2parameters") and click on "Create Resource".
 
 ![This is image](https://i.postimg.cc/85x0kQYn/API3.jpg)
 
@@ -81,3 +81,4 @@ It is not mandatory to fill in a "Stage/Deployment description", click on "Deplo
 ![This is image](https://i.postimg.cc/RhVN0ynK/API6.jpg)
 
 ![This is image](https://images.squarespace-cdn.com/content/v1/61f2d23be98e94537d76e95d/9aa6bb3c-66b5-48ae-af4c-72147f86ea36/sofarsogood_website_Logo_white1.png)
+

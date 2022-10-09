@@ -13,14 +13,14 @@ Lambda functions allows us to use the Lambda API, or Lambda can run your functio
 
 - Go to Lambda ==> Functions ==> Click on "Create function".  
 
-On this step we will create a "Lambda function", first you have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I am using Python 3.8).  
-You can leave all the other options at default and click on "Create function".
+On this step we will create a "Lambda function", first we have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I am using Python 3.8).  
+We can leave all the other options at default and click on "Create function".
 
 ![This is image](https://serving.photos.photobox.com/05385919cf27e171943e54baac41e3a00aec6887eb8833f1e5ae6755eed7f781c9269e9b.jpg)
 
 - Go to SNS ==> Topics ==> Click on "Create topic".
 
-On this step we will create a "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic is called "Calc2Parameters").  
+On this step we will create a "SNS topic", first we have to choose "Standard" in "Topic type", then we choose a name (my topic is called "Calc2Parameters").  
 It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Create topic".  
 
 ![This is image](https://i.postimg.cc/s25KJTJQ/Create-Topic-SNS.jpg)
@@ -28,11 +28,11 @@ It is not mandatory to fill in "Display name" and all options can be left on def
 After we created a topic, we have to go to "Subscriptions" and click on "Create subscription".  
 Then select your "Topic ARN".  
 In "Protocol" select the "Email" option and in "Endpoint" fill your email.  
-You can leave all the other options at default and click on "Create subscription".
+We can leave all the other options at default and click on "Create subscription".
 
 ![This is image](https://i.postimg.cc/s3w0f2x7/ARNtopic.jpg)
 
-We will return to "Subscriptions", where you can see in the "Status" tab that our email is awaiting confirmation.  
+We will return to "Subscriptions", where we can see in the "Status" tab that our email is awaiting confirmation.  
 To confirm the email, we have to enter the email, there we will find an email with a link to confirm and verify the selected email.
 
 ![This is image](https://i.postimg.cc/g2xYSTr0/Subscription.jpg)

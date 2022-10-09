@@ -13,14 +13,14 @@ Lambda functions allows us to using the Lambda API, or Lambda can run your funct
 
 - Go to Lambda ==> Functions ==> Click on "Create function".  
 
-On this page we will create a "Lambda function", first you have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I am using Python 3.8).  
+On this step we will create a "Lambda function", first you have to choose a name (for example: Calc2Parameters), then we choose a language in "Runtime" (I am using Python 3.8).  
 You can leave all the other options at default and click on "Create function".
 
 ![This is image](https://serving.photos.photobox.com/05385919cf27e171943e54baac41e3a00aec6887eb8833f1e5ae6755eed7f781c9269e9b.jpg)
 
 - Go to SNS ==> Topics ==> Click on "Create topic".
 
-On this page we will create a "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic is called "Calc2Parameters").  
+On this step we will create a  "SNS topic", first you have to choose "Standard" in "Topic type", then we choose a name (my topic is called "Calc2Parameters").  
 It is not mandatory to fill in "Display name" and all options can be left on default mode and click on "Create topic".  
 
 ![This is image](https://i.postimg.cc/s25KJTJQ/Create-Topic-SNS.jpg)
@@ -62,7 +62,7 @@ In "Endpoint Type" select "Regional", When done, click on "Create API".
 
 ![This is image](https://i.postimg.cc/HxrNCs6y/API2.jpg)
 
-After we created a API, We click on "Actions" to "Create Resource", then we choose a name (my resource is called "calc2parameters") and click on "Create Resource".
+After we created an API, We click on "Actions" to "Create Resource", then we choose a name (my resource is called "calc2parameters") and click on "Create Resource".
 
 ![This is image](https://i.postimg.cc/85x0kQYn/API3.jpg)
 

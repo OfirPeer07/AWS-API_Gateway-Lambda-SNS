@@ -93,5 +93,3 @@ In "Destination type" select "SNS topic".
 In "Destination" select the name of the topic we created.
 
 ![This is iamge](https://i.ibb.co/KjjF5MK/SNSdestination.jpg)
-
-![This is image](https://i.ibb.co/PrbPPXn/AAAABXLO1-EMk-Jf-FOBQTtx-Xo-Q1-T-JX-6-ZSdu-YV1kxgv-EMh8frq-SM7t7-TGTYXLug71-Tp-YOo-IHUxs69u06u-Iw-A0.png)
